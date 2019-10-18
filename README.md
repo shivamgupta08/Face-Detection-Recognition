@@ -1,5 +1,4 @@
-# Face-Detection-Recognition
-Face-Detection-and-Recognition🔍🎭
+# Face-Detection-and-Recognition🔍🎭
 forthebadge made-with-python forthebadge
 
 star this repo
